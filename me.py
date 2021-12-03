@@ -13,7 +13,7 @@ import copy
 OneDriveShareURL = "https://gitaccuacnz2-my.sharepoint.com/:f:/g/personal/mail_finderacg_com/EheQwACFhe9JuGUn4hlg9esBsKyk5jp9-Iz69kqzLLF5Xw?e=FG7SHh"
 
 aria2Link = "http://localhost:6800/jsonrpc"
-aria2Secret = "5a5ad9f22ed1787fa1b0"
+aria2Secret = "82b4936d54f4037363d5"
 
 isDownload = False
 downloadNum = "1,2-4,5"  # 1,2,3,4,5
